@@ -1,6 +1,6 @@
 console.log("Welcome to employee wage problem");
 
-//UC11 --> EmpWage object operation using arrow function
+//UC12 --> EmpWage object operation using arrow function
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
 const PART_TIME_HOURS = 4;
